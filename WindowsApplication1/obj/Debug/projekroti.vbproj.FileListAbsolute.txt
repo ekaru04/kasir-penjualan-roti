@@ -1,0 +1,87 @@
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.exe.config
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.exe
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.pdb
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.xml
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.Form1.resources
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.Resources.resources
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbproj.GenerateResource.Cache
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.exe
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.xml
+c:\users\skytech.skytech-pc\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.pdb
+C:\Users\Skytech.Skytech-PC\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormListRoti.resources
+C:\Users\Skytech.Skytech-PC\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbprojResolveAssemblyReference.cache
+C:\Users\Skytech.Skytech-PC\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormTransaksi.resources
+C:\Users\Skytech.Skytech-PC\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.master.resources
+C:\Users\Skytech.Skytech-PC\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.pegawai.resources
+C:\Users\Skytech.Skytech-PC\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.login.resources
+C:\Users\Skytech.Skytech-PC\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormBeli.resources
+C:\Users\Skytech.Skytech-PC\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormPegawai.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.exe.config
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.exe
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.pdb
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.xml
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\FlashControlV71.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\ShockwaveFlashObjects.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\bin\Debug\stdole.dll
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbprojAssemblyReference.cache
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.Form1.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormBeli.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormListRoti.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormPegawai.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormTransaksi.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.login.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.master.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.Resources.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.pegawai.resources
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbproj.GenerateResource.cache
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbproj.CoreCompileInputs.cache
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbproj.CopyComplete
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.exe
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.xml
+D:\Kampus\Semester 2\OOP\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.pdb
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.exe.config
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.exe
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.pdb
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\projekroti.xml
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbprojResolveAssemblyReference.cache
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.Form1.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormBeli.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormListRoti.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormPegawai.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.FormTransaksi.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.login.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.master.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.Resources.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.pegawai.resources
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.vbproj.GenerateResource.Cache
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.exe
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.xml
+C:\Users\Skytech.Skytech-PC\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\projekroti.pdb
